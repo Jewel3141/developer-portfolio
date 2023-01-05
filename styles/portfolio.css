@@ -229,3 +229,7 @@ input {
 .contact a {
   text-decoration: none;
 }
+
+.text-area {
+  resize: none;
+}
